@@ -17,7 +17,7 @@ export default class WorkTermReport extends Component {
                     // <ul className="slides three columns">
                     console.log(item)
                     return(
-                      <a className='individualReprt' href='https://www.xbox.com'>
+                      <a className='individualReprt' href={item.link}>
                             <h4>
                               {item.jobTitle}
                             </h4>

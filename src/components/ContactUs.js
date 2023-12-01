@@ -17,6 +17,11 @@ export default class ContactUs extends Component {
                 <h4>LinkedIn:  </h4>
                 <a href={resumeData.linkedinId}>{resumeData.linkedinId}</a>
               </div>
+              <br></br>
+              <div className="widget"> 
+                <h4>Email: </h4>
+                <a href={`mailto:${resumeData.email}`}>{resumeData.email}</a>
+              </div>
             </aside>
           </div>
         </section>

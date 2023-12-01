@@ -3,6 +3,7 @@ let resumeData = {
     "name": "Nathan Starkman",
     "role": "Software Development Engineer and Student",
     "linkedinId":" https://www.linkedin.com/in/nathan-starkman/",
+    "email": "nstarkma@uoguelph.ca",
     "roleDescription": "I am working in all aspects of Software Engineering, including front-end and back-end Development. I am excited to be working and learning more as I expand my horizons in the development space.",
     "socialLinks":[
         {
@@ -130,21 +131,13 @@ let resumeData = {
         "jobTitle":"Data Modelling and Visualization Vegetable Research Assistant",
         "companyName":"OMAFRA",
         "term":"Summer 2023",
+        "link":"https://sites.google.com/view/nathan-work-term-reports/omafra-data-visualization?authuser=0"
       },
       {
         "jobTitle":"Student Application Developer",
         "companyName":"Kenna",
         "term":"Fall 2023",
-      },
-      {
-        "jobTitle":"Student Application Developer",
-        "companyName":"Kenna",
-        "term":"Fall 2023",
-      },
-      {
-        "jobTitle":"Student Application Developer",
-        "companyName":"Kenna",
-        "term":"Fall 2023",
+        "link":"https://sites.google.com/view/nathan-work-term-reports/home"
       }
     ]
     
